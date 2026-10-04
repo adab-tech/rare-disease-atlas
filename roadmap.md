@@ -1,0 +1,7 @@
+- [x] Study the official challenge brief and identify the prototype journey.
+- [x] Build demo dataset, global search, interactive graph, evidence inspection, and persona views.
+- [x] Validate the experience at desktop and mobile sizes.
+- [x] Configure the supplied Bright Data key securely and verify live enrichment for registries, trial sites, and NIH awardees.
+- [x] Add privacy-conscious clinical intake with HPO extraction, atlas overlay, and ranked exploratory matches.
+- [x] Verify both new flows in desktop and mobile preview.
+- [x] Expand Research Grounding with the 14-source audit and clearly labeled production roadmap; verify desktop and mobile dialog.
